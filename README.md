@@ -1,11 +1,17 @@
 # World Life Expectancy: Data Cleaning & EDA
 This project involves a comprehensive deep dive into global life expectancy trends using MySQL. I focused on two distinct phases: Data Cleaning (to ensure accuracy and consistency) and Exploratory Data Analysis (EDA) (to uncover correlations between socio-economic factors and longevity).
 
+###💡 Key Insights & Findings
+* **Top 5** Countries with the highest increase of life expectancy over 15 years. (Number 1 is Haiti with 28.7 years)
+* Analysis showed that countries in the 'High' GDP bracket lived an average of **20 years longer** than those in the 'Low' GDP bracket.
+* **17%** of Countries are classed as developed and **83%** of Countries are classed as developing.
+* Developed Countries have an average life expectancy of **79 years** and Developing countries have an average life expectancy of **67 years**.
+
 ### 📁 Dataset Overview
 The dataset contains life expectancy data for various countries over a 15-year period, including variables like GDP, Adult Mortality, and status (Developed vs. Developing).
 
 🛠️ Key Technical Skills includes:  
-<ins>Data Cleaning:</ins> Removing duplicates using **ROW_NUMBER()**, standardizing text data, and handling missing values using **JOIN** logic and **COALESCE**.
+<ins>Data Cleaning:</ins> Removing duplicates using **ROW_NUMBER()**, standardizing text data, and handling missing values using **JOIN** logic.
 
 <ins>EDA:</ins> Aggregating data with **GROUP BY**, calculating year-over-year growth, and analyzing correlations between GDP and Life Expectancy.
 
