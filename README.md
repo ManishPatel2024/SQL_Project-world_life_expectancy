@@ -7,6 +7,10 @@ This project involves a comprehensive deep dive into global life expectancy tren
 * **17%** of Countries are classed as developed and **83%** of Countries are classed as developing.
 * Developed Countries have an average life expectancy of **79 years** and Developing countries have an average life expectancy of **67 years**.
 
+
+![SQL_Code_World_Life_Expectancy_Screenshot](images/World_Life_Expectancy_SQL_Screenshot.png)
+
+
 ### 📁 Dataset Overview
 The dataset contains life expectancy data for various countries over a 15-year period, including variables like GDP, Adult Mortality, and status (Developed vs. Developing).
 
