@@ -8,7 +8,7 @@ This project involves a comprehensive deep dive into global life expectancy tren
 * Developed Countries have an average life expectancy of **79 years** and Developing countries have an average life expectancy of **67 years**.
 
 
-![SQL_Code_World_Life_Expectancy_Screenshot](images/World_Life_Expectancy_SQL_Screenshot.png)
+![SQL world life expectancy code screenshot](images/World_Life_Expectancy_SQL_Screenshot.png)
 
 
 ### 📁 Dataset Overview
